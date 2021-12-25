@@ -2,7 +2,7 @@
   "name": "cypress-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AbhijeetKumarGupta.github.io/cypress-test",
+  "homepage": "https://abhijeetkumargupta.github.io/cypress-test",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
