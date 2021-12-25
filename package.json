@@ -1,7 +1,8 @@
 {
-  "name": "cypress-deploy",
+  "name": "cypress-test",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://AbhijeetKumarGupta.github.io/cypress-test",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
@@ -12,6 +13,8 @@
     "web-vitals": "^2.1.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -36,6 +39,7 @@
     ]
   },
   "devDependencies": {
-    "cypress": "^9.2.0"
+    "cypress": "^9.2.0",
+    "gh-pages": "^3.2.3"
   }
 }
