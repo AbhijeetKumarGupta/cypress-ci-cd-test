@@ -11,7 +11,7 @@ function App() {
           This is a test for checking the integration of React, Cypress and
           Github actions for CI and CD.
         </p>
-        <button>Click Mee!</button>
+        <button>Click Me!</button>
         <a
           className="App-link"
           href="https://reactjs.org"
