@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cypress-test/static/css/main.073c9b0a.css",
-    "main.js": "/cypress-test/static/js/main.a7561346.js",
-    "static/js/787.e6c1e76b.chunk.js": "/cypress-test/static/js/787.e6c1e76b.chunk.js",
-    "static/media/logo.svg": "/cypress-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/cypress-test/index.html",
-    "main.073c9b0a.css.map": "/cypress-test/static/css/main.073c9b0a.css.map",
-    "main.a7561346.js.map": "/cypress-test/static/js/main.a7561346.js.map",
-    "787.e6c1e76b.chunk.js.map": "/cypress-test/static/js/787.e6c1e76b.chunk.js.map"
+    "main.css": "/cypress-ci-cd-test/static/css/main.073c9b0a.css",
+    "main.js": "/cypress-ci-cd-test/static/js/main.d25f190e.js",
+    "static/js/787.e6c1e76b.chunk.js": "/cypress-ci-cd-test/static/js/787.e6c1e76b.chunk.js",
+    "static/media/logo.svg": "/cypress-ci-cd-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cypress-ci-cd-test/index.html",
+    "main.073c9b0a.css.map": "/cypress-ci-cd-test/static/css/main.073c9b0a.css.map",
+    "main.d25f190e.js.map": "/cypress-ci-cd-test/static/js/main.d25f190e.js.map",
+    "787.e6c1e76b.chunk.js.map": "/cypress-ci-cd-test/static/js/787.e6c1e76b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a7561346.js"
+    "static/js/main.d25f190e.js"
   ]
 }
